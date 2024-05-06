@@ -4,23 +4,16 @@
 </p>
 
 <p align ="center">
-   <a href="mailto:silvacharles156@gmail.com">
+   <a href="mailto:olaniyantosin120@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a> <!--&nbsp;&nbsp;-->
-   <a href="https://www.linkedin.com/in/charles-aiyenigba-b6a139251/">
+   <a href="https://www.linkedin.com/in/tosinolaniyan123/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>     
-  <a href="https://twitter.com/charlesforeal_">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-</a>
-  <a href="https://open.spotify.com/user/i8iz7nl94rjvzwsqsx76jrhgy?si=3026eef5ba06433f">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>&nbsp;&nbsp;
-
   </p>
 
 
-<p >My major goals are learning and building a lot of projects. My Backend skillset comprises of Python & Flask while my Frontend skillset comprises of HTML & CSS 😁
+<p >I'm a versatile individual with experience in exploratory data analysis, data visualization, hypothesis testing, logistic regression, and machine learning models like Naive Bayes and decision trees. 😁
 </p>
 
 
