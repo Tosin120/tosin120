@@ -62,9 +62,6 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://ubuntu.com/" target="_blank">
-	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  </a>
   
   </p>
 
